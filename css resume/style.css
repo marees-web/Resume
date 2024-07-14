@@ -1,0 +1,33 @@
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(197,205,238);
+}
+
+
+.info{
+    font-size: small;
+    font-family: sans-serif;
+    background-color: rgb(28,62,216)
+}
+#image{
+    margin-left: 90%;
+    margin-top: 10px;
+}
+span{
+    margin-top: 2px;
+}
+#one{
+    background-color: rgb(99,124,240);
+}
+#two{
+    background-color: rgb(145, 160, 229);
+}
+#four{
+    background-color: rgb(173, 186, 241);
+    
+
+}
+#tree{
+    background-color: rgb(71,90,175);
+}
